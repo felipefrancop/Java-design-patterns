@@ -1,0 +1,20 @@
+=== Relatório de Vendas (Básico) ===
+ID | Cliente | Data | Valor
+1 | Alice | 2025-10-01 | R$ 95,50
+2 | Bruno | 2025-10-02 | R$ 450,00
+3 | Carla | 2025-10-03 | R$ 780,90
+4 | Diego | 2025-10-04 | R$ 1250,00
+5 | Eva | 2025-10-05 | R$ 35,20
+
+--- Estatísticas ---
+Quantidade de pedidos: 5
+Faturamento total: R$ 2611,60
+Ticket médio: R$ 522,32
+Menor pedido: R$ 35,20
+Maior pedido: R$ 1250,00
+
+--- Gráfico (faixas por valor) ---
+<= 100:   ## (2)
+<= 500:   # (1)
+<= 1000:  # (1)
+> 1000:   # (1)
