@@ -125,7 +125,5 @@ Este projeto foi desenvolvido como avaliação prática, focando na aplicação 
 
 ---
 
-**Desenvolvido por:** [Seu Nome]  
-**Data:** 2024  
-**Linguagem:** Java  
-**Paradigma:** Programação Orientada a Objetos
+**Desenvolvido por:** Felipe Franco Pinheiro | **RGM:** 28839111
+ 
